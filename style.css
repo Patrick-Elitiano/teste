@@ -1,0 +1,31 @@
+body{
+    background-image: url("cam.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0;
+}
+img {
+    border-radius: 50%;
+    width: 10vw;
+}
+
+.blur {
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 0;
+} 
+h1 {
+    font-size: 3vw;
+    margin: 0;
+    color: white;
+    background-color: black;
+}
+.rosto{
+    width: 30%;
+    height: 90vh;
+    place-items: center;
+    display: flex;
+    justify-content: center;
+
+}
