@@ -2,39 +2,4 @@
 padding: 0;
 margin: 0;
 box-sizing: border-box;
-}
-
-body {
-    justify-content: center;
-    background-image: url(img/1.gif);
-}
-body div {
-    color: white;
-}
-
-header {
-    color: white;
-    text-align: center;
-}
-
-main {
-    column-count: 1;
-}
-.filho {
-    margin: 40px;
-    display: flex;
-    flex-direction: column;
-}
-
-div img {
-    height: 100px;
-    width: auto;
-    border-radius: 25px;
-
-}
-
-footer{
-    color: white;
-    text-align: center;
-    margin-top: 200px;
-}
+ }
